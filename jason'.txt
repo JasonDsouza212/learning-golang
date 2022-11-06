@@ -1,0 +1,4 @@
+Bill BreakDown 
+cake:                    ...RS400 
+Tip:                     ...Rs0
+total:                   ...Rs400.00
